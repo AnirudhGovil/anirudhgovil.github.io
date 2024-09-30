@@ -14,7 +14,7 @@ I previously worked as a Computer Vision Engineer at [Game Theory](https://www.g
 
 I studied Computer Science and Engineering at [IIIT Hyderabad](https://www.iiit.ac.in/) where I graduated with a B.Tech with Honours.
 
-I've had the pleasure of being advised by [Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Sourav Garg](https://oravus.github.io/), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. 
+I've had the pleasure of being advised by [Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Sourav Garg](https://oravus.github.io/), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. {% if author.googlescholar %} You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> {% endif %}
 
 I enjoy Sci-Fi in all mediums, play Table Tennis, follow every other sport and try to make music. I'd love to listen to what you have to say about anything science, tech and philosophy.
 
