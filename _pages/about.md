@@ -16,7 +16,7 @@ I studied Computer Science and Engineering at [IIIT Hyderabad](https://www.iiit.
 
 As a researcher, I've had the pleasure of being advised by Professors [Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Sourav Garg](https://oravus.github.io/), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. 
 
-I play Table Tennis, follow every other sport and try to make music. I'd love to listen to what you have to say about anything science, tech and politics.
+I play Table Tennis, follow every other sport and try to make music. I'd love to listen to your musings on science, tech and politics.
 
 
 
