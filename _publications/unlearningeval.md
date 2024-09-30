@@ -1,15 +1,7 @@
 ---
-title: "Towards Adversarial Evaluations for Inexact Machine Unlearning"
-collection: publications
-permalink: /publication/unlearningeval
-excerpt: 'We study how to evaluate machine unlearning procedures.'
-date: 2023-02-23
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2201.06640'
-citation: 'Goel, Shashwat and Prabhu, Ameya and Sanyal Amartya and Lim, Ser-Nam and Torr Philip and Kumaraguru, Ponnurangam (2023). &quot;Towards Adversarial Evaluations for Inexact Machine Unlearning.&quot; <i>ArXiv</i>.'
+title: 'From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences'
+venue: 'ACM Transactions on Asian and Low-Resource Language Information Processing'
+paper_link: https://arxiv.org/abs/2404.06442
+type: paper
 ---
-We study how to evaluate machine unlearning procedures.
-
-[Download paper here](https://arxiv.org/abs/2201.06640)
-
-Recommended citation: <b>Goel, Shashwat</b> and Prabhu, Ameya and Sanyal Amartya and Lim, Ser-Nam and Torr Philip and Kumaraguru, Ponnurangam (2023). &quot;Towards Adversarial Evaluations for Inexact Machine Unlearning.&quot; <i>ArXiv</i>.
+we construct Cline - a dataset containing human acceptability judgements for English-Hindi (en-hi) code-mixed text - the largest of its kind with 16,642 sentences. Our analysis establishes that popular code-mixing metrics such as CMI, Number of Switch Points, Burstines, which are used to filter/curate/compare code-mixed corpora have low correlation with human acceptability judgements, underlining the necessity of our dataset. Comparison with ChatGPT's zero and fewshot capabilities shows that MLLMs fine-tuned on larger data outperform ChatGPT, providing scope for improvement in code-mixed tasks. Zero-shot transfer from English-Hindi to English-Telugu acceptability judgments using our model checkpoints proves superior to random baselines, suggesting application to other code-mixed language pairs.
