@@ -1,130 +1,18 @@
-- title: 'Corrective Machine Unlearning'
-  authors:
-    - Shashwat Goel*
-    - Ameya Prabhu*
-    - Philip Torr
-    - P. Kumaraguru
-    - Amartya Sanyal
-  venue: 'Workshop on Data-centric Machine Learning (DMLR) - Recommended for Journal (Top 15) <br>12th International Conference on Representation Learning (ICLR)'
-  date: 2024-01-03
-  paper_link: https://arxiv.org/abs/2402.14015
+- title: 'QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding'
+  venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
+  paper_link: https://arxiv.org/abs/2404.06442
   links: 
-    twitter: https://x.com/ShashwatGoel7/status/1760911396034793831
-    code: https://github.com/drimpossible/corrective-unlearning-bench
+    twitter: https://x.com/RRCLab_IIITH/status/1814225647633637757
+    code: https://quest-maps.github.io/
   type: paper
   # description: >
   #   We highlight key distinctions between the application of unlearning to privacy vs removing manipulated or incorrect training data, and we call the latter "Corrective Unlearning". Specifically, the deletion set is not provided by user requests, and model developers may only identify a subset of manipulated samples whose influence is to be deleted. "Retraining on the retain set from scratch'', previously considered a theoretical gold standard, becomes insufficient when the entire manipulated set is not known, re-inforcing the adverse effect of retained manipulated samples. State of the art unlearning procedures aim to approximate this gold standard, leading to existing methods performing poorly when even upto 80\% poisoned samples are identified. We find evidence that corrective unlearning is tractibile, but there is a need for unlearning methods that can handle arbitrary manipulations. 
 
-- title: 'The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning'
-  authors:
-    - Center for AI Safety
-    - Scale AI
-  venue: 'International Conference on Machine Learning (ICML)'
-  date: 2024-01-02
-  paper_link: https://arxiv.org/abs/2403.03218
-  links: 
-    media: https://time.com/6878893/ai-artificial-intelligence-dangerous-knowledge/
-    webpage: https://www.wmdp.ai/ 
-    code: https://github.com/centerforaisafety/wmdp
+- title: 'From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences'
+  venue: 'ACM Transactions on Asian and Low-Resource Language Information Processing'
+  paper_link: https://arxiv.org/abs/2404.06442
   type: paper
   # description: >
   #   We introduce unlearning dual-use knowledge from LLMs as a post-training safety intervention. We release an MCQ benchmark for measuring hazardous knowledge related to the design of bioweapons, cyberattacks, and chemical weapons. We propose RMU, an activation space unlearning method that reduces hazardous knowledge while maintaining overall LLM performance. I designed evaluations and implemented baselines for this project, being involved in ideation from start to finish.
 
-- title: 'Proportional Aggregation of Preferences for Sequential Decision Making'
-  authors:
-    - Nikhil Chandak
-    - Shashwat Goel
-    - Dominik Peters
-  venue: '38th Annual Conference of the Association for the Advancement of Artificial Intelligence (AAAI) <br>Outstanding Paper Award (top 3 out of 12,000+ submissions)'
-  date: 2024-01-01
-  paper_link: https://arxiv.org/abs/2306.14858 
-  links: 
-    twitter: https://x.com/ShashwatGoel7/status/1760776191139582409 
-    talk: https://www.youtube.com/watch?v=kjZG89iDzuU
-  type: paper
 
-
-- title: 'Representation Engineering: A Top-Down Approach to AI Transparency'
-  authors:
-    - Center for AI Safety
-  venue: 'ArXiv'
-  date: 2023-01-03
-  paper_link: https://arxiv.org/abs/2310.01405
-  links: 
-    talk: https://www.youtube.com/watch?v=2U5NNiGC9yk
-    webpage: https://www.ai-transparency.org/
-    code: https://github.com/andyzoujm/representation-engineering
-  type: paper
-
-- title: 'Probing Negation in Language Models'
-  authors:
-    - Shashwat Singh*
-    - Shashwat Goel*
-    - Saujas Vaduguru
-    - Ponnurangam Kumaraguru
-  venue: '8th Workshop on Representation Learning for NLP (RepL4NLP) <br>61st Annual Meeting of the Association for Computational Linguistics (ACL)'
-  date: 2023-01-02
-  paper_link: https://shash42.github.io/files/negation.pdf
-  links: 
-    code: https://github.com/shashwat1002/negation_new 
-  type: paper
-
-- title: 'Towards Adversarial Evaluations of Inexact Machine Unlearning'
-  authors:
-    - Shashwat Goel*
-    - Ameya Prabhu*
-    - Amartya Sanyal
-    - Ser-Nam Lim
-    - Phillip Torr
-    - Ponnurangam Kumaraguru
-  venue: 'ArXiv'
-  date: 2023-01-01
-  paper_link: https://arxiv.org/abs/2201.06640 
-  links: 
-    code: https://github.com/shash42/Evaluating-Inexact-Unlearning
-  type: paper
-
-- title: 'Low Impact Agency: Review and Discussion'
-  authors:
-    - Danilo Naiff
-    - Shashwat Goel
-  venue: 'ArXiv'
-  date: 2022-01-01
-  paper_link: https://arxiv.org/abs/2303.03139
-  links: 
-  type: paper
-
-- title: 'Modelling and Optimizing the Allocation of COVID-19 Swabs to Labs'
-  authors:
-    - Nikhil Chandak
-    - Shashwat Goel
-    - Kunal Jain
-    - Arpan Dasgupta
-  venue: 'Student Abstract at 18th Mixed Integer Programming Workshop<br>Winner, Covid-19 Swabs2Labs Hackathon by Ministry of Health Karnataka'
-  date: 2021-01-02
-  paper_link: https://github.com/shash42/cnihack/blob/master/Report.pdf
-  links: 
-    code: https://github.com/shash42/cnihack
-  type: technical report
-
-- title: 'Bilingual Dictionary Generation and Enrichment via Graph Exploration'
-  authors:
-    - Shashwat Goel
-    - Jorge Gracia
-    - Mikel L. Forcada
-  venue: 'Special Issue on Latest Advancements in Linguistic Linked Data<br>Semantic Web Journal'
-  date: 2022-01-02
-  paper_link: https://content.iospress.com/articles/semantic-web/sw222899 
-  links: 
-    code: https://github.com/shash42/ApertiumBidixGen
-  type: paper
-
-- title: 'From Pivots to Graphs: Augmented Cycle Density as a generalization to One Time Inverse Consultation'
-  authors:
-    - Shashwat Goel
-    - Kunwar Shanjeet Grover
-  venue: '4th Shared Task on Translation Inference Across Dictionaries<br>3rd Conference on Language, Data and Knowledge'
-  date: 2021-01-01
-  paper_link: https://arxiv.org/abs/2108.12459 
-  links: 
-  type: paper
