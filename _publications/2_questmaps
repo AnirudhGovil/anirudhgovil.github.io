@@ -1,7 +1,7 @@
 ---
 title: 'QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding'
 collection: publications
-permalink: publication/2_QueSTMaps
+permalink: /publication/2_questmaps
 excerpt: 'Our language-topology alignment supports natural language querying and outperforms the current state-of-the-art on room segmentation by ~20% and room classification by ~12%'
 date: 2024-10-14
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
