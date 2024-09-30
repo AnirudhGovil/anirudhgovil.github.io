@@ -18,9 +18,5 @@ I've had the pleasure of being advised by [Madahava Krishna](https://robotics.ii
 
 I enjoy Sci-Fi in all mediums, play Table Tennis, follow every other sport and try to make music. I'd love to listen to what you have to say about anything science, tech and philosophy.
 
-<h3>News</h3>
-{% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse | slice: 0, 7 %}
-{% include news.html news=news %}
-
 
 
