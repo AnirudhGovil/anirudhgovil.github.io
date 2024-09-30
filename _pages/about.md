@@ -12,15 +12,15 @@ I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/)
 
 I previously worked as a Computer Vision Engineer at [Game Theory](https://www.gametheory.in/) where I built the core calibration, traingulation and detection pipelines for shuttles/ball tracking in sports videos.
 
+I studied Computer Science and Engineering at [IIIT Hyderabad](https://www.iiit.ac.in/) where I graduated with a B.Tech with Honours.
+
+I've had the pleasure of being advised by [Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Sourav Garg](https://oravus.github.io/), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. 
+
+I enjoy Sci-Fi in all mediums, play Table Tennis, follow every other sport and try to make music. I'd love to listen to what you have to say about anything science, tech and philosophy.
+
 <h3>News</h3>
 {% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse | slice: 0, 7 %}
 {% include news.html news=news %}
 
 
-<h3>Publications</h3>
-{% include publications.html
-    publications=site.data.publications
-    numbering=false
-%}
 
-I've had the pleasure of being advised by [Madahava Krishna](), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [](https://saujasv.github.io/), and [Saourav Garg](), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP.
