@@ -4,6 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<a href="/assets/CV.pdf"> View PDF</a><br>
+<a href="/assets/AnirudhGovil_CV.pdf"> View PDF</a><br>
 
-*last updated: July 23, 2024*
+*last updated: Sept 16, 2024*
