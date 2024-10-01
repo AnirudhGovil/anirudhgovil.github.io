@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/). I perform R&D on image processing pipelines that perform stereoscopic depth detection and semantic segmentation.
+I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/). I do R&D on stereoscopic depth detection and semantic segmentation for omnidrectional videos.
 
-I previously worked as a Computer Vision Engineer at [Game Theory](https://www.gametheory.in/) where I built the core calibration, triangulation and detection pipelines for shuttle/ball tracking in sports videos.
+I previously worked as a Computer Vision Engineer at [Game Theory](https://www.gametheory.in/) where I built the core camera calibration, triangulation and detection pipelines for shuttle/ball trajectory tracking for sports.
 
-I studied Computer Science and Engineering at [IIIT Hyderabad](https://www.iiit.ac.in/) where I graduated with a B.Tech with Honours. 
+I have a B.Tech with Honours in Computer Science and Engineering from [IIIT Hyderabad](https://www.iiit.ac.in/).
 
-As a researcher, I've had the pleasure of being advised by Professors [Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Sourav Garg](https://oravus.github.io/), as I worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. 
+As a researcher, I've worked on Semantic Segmentation, Vision Language Models, Robotic Control and Codemixing in NLP. I've had the pleasure of being advised by [Prof. Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Prof. Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Prof. Sourav Garg](https://oravus.github.io/).  
 
-I play Table Tennis, follow every other sport and try to make music. I'd love to listen to your musings on science, tech and politics.
+I play Table Tennis, follow every other sport and try to make music. I enjoy reading about science, tech and politics. 
 
 
 
