@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/) building perception systems for robots. I do R&D on stereoscopic depth detection & semantic segmentation for omnidirectional video.
+I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/) building perception systems for robots. I do R&D on image processing, stereoscopic depth detection & semantic segmentation.
 
 I previously worked as a Computer Vision Engineer at [Game Theory](https://www.gametheory.in/) where I built the core camera calibration, triangulation & detection pipelines for shuttle/ball trajectory tracking for sports.
 
