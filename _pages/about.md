@@ -14,7 +14,7 @@ I previously worked as a Computer Vision Engineer at [Game Theory](https://www.g
 
 As a researcher at [RRC](https://robotics.iiit.ac.in/) & [PreCog](https://precog.iiit.ac.in/), I've worked on Robotic Perception, Vision Language Models & Codemixing in NLP. I've had the pleasure of being advised by [Prof. Madahava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Prof. Ponnurangam Kumaraguru](https://precog.iiit.ac.in/) and [Prof. Sourav Garg](https://oravus.github.io/).  
 
-I have a B.Tech with Honours in Computer Science & Engineering from [IIIT Hyderabad](https://www.iiit.ac.in/). I play Table Tennis, follow every other sport and try to make music. I enjoy reading about science, tech and politics. 
+I graduated from [IIIT Hyderabad](https://www.iiit.ac.in/) with a B.Tech (Honours) in Computer Science & Engineering. I play Table Tennis, follow every other sport and try to make music. I enjoy reading about science, tech and politics. 
 
 
 
