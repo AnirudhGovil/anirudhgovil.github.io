@@ -1,0 +1,10 @@
+---
+title: 'Emergence of Text Semantics in CLIP Image Encod'
+collection: publications
+permalink: /publication/3_clip
+excerpt: "We show evidence suggesting that the image representations of CLIP have a subspace for textual semantics that abstracts away fonts. Furthermore, we show that the rendered text representations from the image encoder only slightly lag behind the text representations with respect to preserving semantic relationships."
+date: 2024-11-05
+venue: 'UniReps @ 38th Conference on Neural Information Processing Systems'
+paperurl: 'https://openreview.net/pdf?id=eEtFRl7ksZ'
+---
+In this work, we introduce a two-step pipeline. First, we extract a topological map, i.e., floorplan of the indoor scene using a novel multi-channel occupancy representation. Then, we generate CLIP-aligned features and semantic labels for every room instance based on the objects it contains using a self-attention transformer. Our language-topology alignment supports natural language querying, e.g., a "place to cook" locates the "kitchen". We outperform the current state-of-the-art on room segmentation by ~20% and room classification by ~12%. 
