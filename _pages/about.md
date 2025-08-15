@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/) building perception systems for robots. I do R&D on image processing, stereoscopic depth detection & semantic segmentation.
+I work as a Computer Vision Research Engineer at [DreamVu](https://dreamvu.com/) building perception systems on resource constrained devices for robots. I do R&D on image processing, stereoscopic depth detection, object detection, tracking and semantic segmentation.
 
 I previously worked as a Computer Vision Engineer at [Game Theory](https://www.gametheory.in/) where I detected, triangulated & tracked objects using multiple cameras for sports.
 
@@ -16,7 +16,7 @@ As a researcher at [RRC](https://robotics.iiit.ac.in/) & [PreCog](https://precog
 
 I graduated from [IIIT Hyderabad](https://www.iiit.ac.in/) with a B.Tech (Honours) in Computer Science & Engineering.
 
-I play Table Tennis, follow every other sport and try to make music. I enjoy reading about science, tech and politics. 
+I play and follow every other sport and try to make music. I enjoy reading about science, tech and geo-politics. 
 
 
 
